@@ -3,7 +3,7 @@
 title: Faizan Bhat
 
 # Name pronunciation (optional)
-name_pronunciation: 
+name_pronunciation: ''
 
 # Full name (for SEO)
 first_name: Faizan
@@ -11,7 +11,7 @@ last_name: Bhat
 
 # Status emoji
 status:
-  icon: 
+  icon: ''
 
 # Is this the primary user of the site?
 superuser: true
