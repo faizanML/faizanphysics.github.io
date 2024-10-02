@@ -6,8 +6,8 @@ title: Faizan Bhat
 name_pronunciation: 
 
 # Full name (for SEO)
-first_name: Shiung Wu
-last_name: Chien
+first_name: Faizan
+last_name: Bhat
 
 # Status emoji
 status:
