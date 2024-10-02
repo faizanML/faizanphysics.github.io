@@ -38,7 +38,7 @@ profiles:
     url: https://www.linkedin.com/
 
 interests:
-  - Artificial Intelligence
+  - Bootstrap
   - Computational Linguistics
   - Information Retrieval
 
