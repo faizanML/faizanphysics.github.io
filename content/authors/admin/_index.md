@@ -25,7 +25,6 @@ role: Theoretical Physicist
 # Organizations/Affiliations to display in Biography blox
 organizations:
   - name: IISc Bangalore
-    url: https://openai.com/
 
 # Social network links
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
@@ -93,23 +92,23 @@ work:
 skills:
   - name: Technical Skills
     items:
-      - name: Python
-        description: ''
-        percent: 80
-        icon: code-bracket
-      - name: Data Science
+      - name: Mathematica
         description: ''
         percent: 100
-        icon: chart-bar
-      - name: SQL
+        icon: code-bracket
+      - name: Python/PyTorch
         description: ''
-        percent: 40
+        percent: 80
+        icon: chart-bar
+      - name: C++
+        description: ''
+        percent: 80
         icon: circle-stack
   - name: Hobbies
     color: '#eeac02'
     color_border: '#f0bf23'
     items:
-      - name: Hiking
+      - name: Badminton
         description: ''
         percent: 60
         icon: person-simple-walk
@@ -121,14 +120,6 @@ skills:
         description: ''
         percent: 80
         icon: camera
-
-languages:
-  - name: English
-    percent: 100
-  - name: Chinese
-    percent: 75
-  - name: Portuguese
-    percent: 25
 
 # Awards.
 #   Add/remove as many awards below as you like.
@@ -164,4 +155,4 @@ awards:
 
 ## About Me
 
-Chien Shiung Wu is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+I am currently a PhD candidate in Physics at the Indian Institute of Science, Bangalore. I work in the field of theoretical high-energy physics. My research involves studying non-perturbative scattering amplitudes via the S-Matrix bootstrap, studying Conformal Field theories and undertanding vasrious aspects of the gauge-gravity duality. Recently, I've also started exploring the application of Machine Learning techniques for my research. 
