@@ -55,12 +55,12 @@ education:
   - area: BS-MS Physics
     institution: IISER Bhopal
     date_start: 2014-08-01
-    date_end: 2019-08-1
+    date_end: 2019-08-01
     
   - area: MS-Thesis
     institution: ICTS Bangalore
     date_start: 2018-08-01
-    date_end: 2019-08-1
+    date_end: 2019-08-01
     summary: |
      Thesis on _Perturbative Mellin correlators in N=4 Supersymmetric Yang-Mills_. Supervised by [Prof. Rajesh Gopakumar](https://www.icts.res.in/people/rajesh-gopakumar).
     button:
