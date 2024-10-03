@@ -1,7 +1,10 @@
 ---
 title: "Bootstrapping string models with entanglement minimization and Machine-Learning"
 authors:
-- admin, Debapriyo Chowdhury, Arnab Priya Saha, Aninda Sinha
+- admin
+- Debapriyo Chowdhury
+- Arnab Priya Saha
+- Aninda Sinha
 date: "2019-04-07T00:00:00Z"
 doi: ""
 
