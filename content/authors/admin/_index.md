@@ -45,47 +45,28 @@ interests:
 education:
   - area: PhD Physics
     institution: Indian Institute of Science, Bangalore
-    date_start: 2016-01-01
-    date_end: 2020-12-31
-    summary: |
-      Thesis on _Why LLMs are awesome_. Supervised by [Prof Joe Smith](https://example.com). Presented papers at 5 IEEE conferences with the contributions being published in 2 Springer journals.
+    date_start: 2020-01-01
+   # date_end: 
+    #summary: |
+    #  Thesis on _Why LLMs are awesome_. Supervised by [Prof Joe Smith](https://example.com). Presented papers #at 5 IEEE conferences with the contributions being published in 2 Springer journals.
     button:
       text: 'Read Thesis'
       url: 'https://example.com'
   - area: BS-MS Physics
     institution: IISER Bhopal
-    date_start: 2016-01-01
-    date_end: 2020-12-31
+    date_start: 2014-08-01
+    date_end: 2019-08-1
+    
+  - area: MS-Thesis
+    institution: ICTS Bangalore
+    date_start: 2018-08-01
+    date_end: 2019-08-1
     summary: |
-      GPA: 3.8/4.0
-
-      Courses included:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-work:
-  - position: Director of Cloud Infrastructure
-    company_name: GenCoin
-    company_url: ''
-    company_logo: ''
-    date_start: 2021-01-01
-    date_end: ''
-    summary: |2-
-      Responsibilities include:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - position: Backend Software Engineer
-    company_name: X
-    company_url: ''
-    company_logo: ''
-    date_start: 2016-01-01
-    date_end: 2020-12-31
-    summary: |
-      Responsibilities include:
-      - Migrated infrastructure to a new data center
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+     Thesis on _Perturbative Mellin correlators in N=4
+Supersymmetric Yang-Mills_. Supervised by [Prof. Rajesh Gopakumar](https://www.icts.res.in/people/rajesh-gopakumar).
+    button:
+      text: 'Read Thesis'
+      url: 'https://example.com'
 
 # Skills
 # Add your own SVG icons to `assets/media/icons/`
