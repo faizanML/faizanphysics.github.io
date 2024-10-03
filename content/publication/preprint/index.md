@@ -31,8 +31,8 @@ doi: ""
 #featured: false
 
 links:
-- name: Link
-  url: https://inspirehep.net/literature/2835174
+#- name: Link
+#url: https://inspirehep.net/literature/2835174
 url_pdf: https://arxiv.org/pdf/2409.18259
 #url_code: 'https://github.com/HugoBlox/hugo-blox-builder'
 #url_dataset: '#'
