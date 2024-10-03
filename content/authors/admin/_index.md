@@ -47,8 +47,8 @@ education:
     institution: Indian Institute of Science, Bangalore
     date_start: 2020-01-01
    # date_end: 
-    #summary: |
-    #  Thesis on _Why LLMs are awesome_. Supervised by [Prof Joe Smith](https://example.com). Presented papers #at 5 IEEE conferences with the contributions being published in 2 Springer journals.
+    summary: |
+      Thesis on _Why LLMs are awesome_. Supervised by [Prof Joe Smith](https://example.com). Presented papers at 5 IEEE conferences with the contributions being published in 2 Springer journals.
     button:
       text: 'Read Thesis'
       url: 'https://example.com'
