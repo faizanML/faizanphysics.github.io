@@ -43,21 +43,22 @@ interests:
   - Machine Learning
 
 education:
-  - area: PhD Physics
+  - area: PhD Physics 
     institution: Indian Institute of Science, Bangalore
     date_start: 2020-01-01
-   # date_end: 
+    # date_end: 
     summary: |
       Supervised by [Prof. Aninda Sinha](https://chep.iisc.ac.in/Personnel/asinha.html).
     button:
       text: 'Read Thesis'
       url: 'https://example.com'
+
+      
   - area: BS-MS Physics
     institution: IISER Bhopal
     date_start: 2014-08-01
     date_end: 2019-08-01
     
-  - area: MS-Thesis
   - area: MS-Thesis
     institution: ICTS Bangalore
     date_start: 2018-08-01
