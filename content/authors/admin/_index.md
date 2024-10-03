@@ -96,7 +96,7 @@ skills:
         description: ''
         percent: 100
         icon: cat
-      - name: Photography
+      - name: Reading
         description: ''
         percent: 80
         icon: camera
