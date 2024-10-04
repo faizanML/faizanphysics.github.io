@@ -7,6 +7,8 @@
 title: faizanbhatphysics
 # Website URL
 baseURL: 'https://faizanbhatphysics.com/'
+# Meta Description
+description: 'Personal physics homepage of Faizan Bhat.'
 
 ############################
 ## LANGUAGE
