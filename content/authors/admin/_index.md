@@ -139,4 +139,4 @@ skills:
 
 ## About Me
 
-I am currently a PhD candidate in Physics at the Indian Institute of Science, Bangalore. I work in the field of theoretical high-energy physics. My research involves studying non-perturbative scattering amplitudes via the S-Matrix bootstrap, studying Conformal Field theories and undertanding vasrious aspects of the gauge-gravity duality. Recently, I've also started exploring the application of Machine Learning techniques for my research. 
+I am currently a PhD candidate in Physics at the Indian Institute of Science, Bangalore. I work in the field of theoretical high-energy physics. My research involves studying non-perturbative scattering amplitudes via the S-Matrix bootstrap, studying Conformal Field theories and undertanding various aspects of the gauge-gravity duality. Recently, I've also started exploring the application of Machine Learning techniques for my research. 
