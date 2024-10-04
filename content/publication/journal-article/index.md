@@ -1,18 +1,17 @@
 ---
-title: "An example journal article"
+title: "Bootstrapping string models with entanglement minimization and Machine-Learning"
 authors:
 - admin
-- Robert Ford
-author_notes:
-- "Equal contribution"
-- "Equal contribution"
-date: "2015-09-01T00:00:00Z"
+- Debapriyo Chowdhury
+- Arnab Priya Saha
+- Aninda Sinha
+date: "2024-09-26T00:00:00Z"
 doi: ""
 
-# links:
-# - name: ""
-#   url: ""
-
+links:
+- name: Link
+  url: https://inspirehep.net/literature/2835174
+url_pdf: https://arxiv.org/pdf/2409.18259
 
 ---
 
