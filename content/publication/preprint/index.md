@@ -9,8 +9,7 @@ date: "2024-09-26T00:00:00Z"
 # doi: ""
 
 links:
-- name: Link
-  url: https://inspirehep.net/literature/2835174
+- url: https://inspirehep.net/literature/2835174
 url_pdf: https://arxiv.org/pdf/2409.18259
 
 ---
