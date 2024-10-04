@@ -24,7 +24,7 @@ sections:
         color: black
         image:
           # Add your image background to `assets/media/`.
-          filename: String_v2.png
+          filename: filasteen.png
           filters:
             brightness: 1.0
           size: cover
