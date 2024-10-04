@@ -32,7 +32,7 @@ profiles:
   - icon: at-symbol
     url: 'mailto:faizanbhat@iisc.ac.in'
     label: E-mail Me
-    url: https://github.com/gcushen
+    url: faizanbhat@iisc.ac.in
   - icon: brands/linkedin
     url: https://www.linkedin.com/
 
