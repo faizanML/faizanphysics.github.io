@@ -56,17 +56,39 @@ sections:
 #      view: article-grid
 #      columns: 2
 
+- block: collection
+  content:
+    title: Recent Publications
+    text: ""
+    items:
+      - title: "Bootstrapping string models with entanglement minimization and Machine-Learning"
+        authors:
+          - "Faizan Bhat"
+          - "Debapriyo Chowdhury"
+          - "Arnab Priya Saha"
+          - "Aninda Sinha"
+        date: "2024-09-26"
+        url: https://inspirehep.net/literature/2835174
+        # add more fields as needed
 
-  - block: collection
-    content:
-      title: Recent Publications
-      text: ""
-      filters:
-        folders:
-          - publication
-        exclude_featured: false
+      - title: "Another Publication Title"
+        authors:
+          - "Author One"
+        date: "2023-05-10"
+        url: https://example.com/another-publication
     design:
       view: citation
+
+#  - block: collection
+#    content:
+#      title: Recent Publications
+#      text: ""
+#      filters:
+#        folders:
+#          - publication
+#        exclude_featured: false
+#    design:
+#      view: citation
      
 #  - block: collection
 #    id: talks
