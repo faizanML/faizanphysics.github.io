@@ -48,9 +48,9 @@ education:
     # date_end: 
     summary: |
       Supervised by Prof. Aninda Sinha.
-    button:
-      text: Read Thesis
-      url:  uploads/MS_Thesis.pdf
+    # button:
+      # text: Read Thesis
+      # url:  uploads/MS_Thesis.pdf
       
   - area: BS-MS Physics
     institution: IISER Bhopal
@@ -64,8 +64,9 @@ education:
     summary: |
       Thesis on _Perturbative Mellin correlators in N=4 Supersymmetric Yang-Mills_.
       Supervised by Prof. Rajesh Gopakumar.
-      <a href="/uploads/resume.pdf" style="display: inline-block; padding: 10px 20px; background-color: #007bff; color: white; text-decoration: none; border-radius: 5px; font-weight: bold;">Download CV</a>
-
+    button:
+      text: Read Thesis
+      url:  uploads/MS_Thesis.pdf
 
 
 # Skills
