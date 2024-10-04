@@ -67,7 +67,7 @@ education:
       Supervised by Prof. Rajesh Gopakumar.
     button:
       text: 'Read Thesis'
-      url: 'https://example.com'
+      url: 'uploads/resume.pdf'
 
 
 # Skills
