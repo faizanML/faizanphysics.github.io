@@ -48,9 +48,7 @@ education:
     # date_end: 
     summary: |
       Supervised by Prof. Aninda Sinha.
-    button:
-      text: 'Read Thesis'
-      url: /uploads/resume.pdf
+      <a href="/uploads/resume.pdf" class="btn btn-primary" target="_blank">Read Thesis</a>
 
       
   - area: BS-MS Physics
@@ -67,7 +65,7 @@ education:
       Supervised by Prof. Rajesh Gopakumar.
     button:
       text: 'Read Thesis'
-      url: '/uploads/resume.pdf'
+      url:  <a href="/uploads/resume.pdf" class="btn btn-primary" target="_blank">Open PDF</a>
 
 
 # Skills
