@@ -48,6 +48,7 @@ education:
     # date_end: 
     summary: |
       Supervised by [Prof. Aninda Sinha] (https://chep.iisc.ac.in/Personnel/asinha.html)
+    button:
       text: 'Read Thesis'
       url: 'https://example.com'
 
@@ -62,8 +63,8 @@ education:
     date_start: 2018-08-01
     date_end: 2019-08-01
     summary: |
-      Thesis on _Perturbative Mellin correlators in N=4 Supersymmetric Yang-Mills_. 
-      Supervised by [Prof. Rajesh Gopakumar](https://www.icts.res.in/people/rajesh-gopakumar).
+      Thesis on _Perturbative Mellin correlators in N=4 Supersymmetric Yang-Mills_.
+      Supervised by [Prof. Rajesh Gopakumar] (https://www.icts.res.in/people/rajesh-gopakumar)
     button:
       text: 'Read Thesis'
       url: 'https://example.com'
