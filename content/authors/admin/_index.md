@@ -51,12 +51,7 @@ education:
     # button:
       # text: Read Thesis
       # url:  uploads/MS_Thesis.pdf
-      
-  - area: BS-MS Physics
-    institution: IISER Bhopal
-    date_start: 2014-08-01
-    date_end: 2019-08-01
-    
+
   - area: MS-Thesis
     institution: ICTS Bangalore
     date_start: 2018-08-01
@@ -67,6 +62,13 @@ education:
     button:
       text: Read Thesis
       url:  uploads/MS_Thesis.pdf
+      
+  - area: BS-MS Physics
+    institution: IISER Bhopal
+    date_start: 2014-08-01
+    date_end: 2019-08-01
+    
+  
 
 
 # Skills
