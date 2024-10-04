@@ -1,16 +1,14 @@
 ---
-title: "Bootstrapping string models with entanglement minimization and Machine-Learning"
+title: "Perturbative Mellin amplitudes of N=4 SYM"
 authors:
 - admin
-- Debapriyo Chowdhury
-- Arnab Priya Saha
-- Aninda Sinha
-date: "2024-09-26T00:00:00Z"
+- Pronobesh Maity
+date: "2023-12-29T00:00:00Z"
 doi: ""
 
 links:
 - name: Link
-  url: https://inspirehep.net/literature/2835174
-url_pdf: https://arxiv.org/pdf/2409.18259
+  url: https://inspirehep.net/literature/2741902
+url_pdf: https://arxiv.org/pdf/2312.17692
 
 ---
