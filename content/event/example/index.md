@@ -36,7 +36,7 @@ image:
   src: 'https://github.com/faizanML/website_faizan.github.io/blob/main/content/event/example/featured.png'
   focal_point: Right
 
-#links:
+links:
 #  - icon: twitter
 #    icon_pack: fab
 #    name: Follow
@@ -58,7 +58,7 @@ url_video: 'https://www.youtube.com/watch?v=iDRPXSKFKM8'
 #   Simply enter your project's folder or file name without extension.
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
-#projects:
+# projects:
 #  - example
 ---
 
