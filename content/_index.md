@@ -30,6 +30,7 @@ sections:
           size: cover
           position: center
           parallax: false
+ 
   - block: markdown
     content:
       title: '📚 My Research'
@@ -59,6 +60,7 @@ sections:
   
   
   - block: collection
+    id: papers
     content:
       title: Recent Publications
       text: ""
