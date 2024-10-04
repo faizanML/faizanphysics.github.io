@@ -103,7 +103,7 @@ skills:
       - name: Reading
         description: ''
         percent: 80
-        icon: book
+        icon: book-open 
 
 # Awards.
 #   Add/remove as many awards below as you like.
