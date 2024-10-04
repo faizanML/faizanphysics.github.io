@@ -31,8 +31,6 @@ organizations:
 profiles:
   - icon: at-symbol
     url: 'mailto:faizanbhat@iisc.ac.in'
-    label: E-mail Me
-    url: <a href="mailto:faizan@example.com">Email Me</a>
     
   - icon: brands/linkedin
     url: https://www.linkedin.com/
