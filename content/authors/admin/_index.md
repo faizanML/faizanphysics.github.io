@@ -50,7 +50,7 @@ education:
       Supervised by Prof. Aninda Sinha.
     button:
       text: 'Read Thesis'
-      url: 'https://example.com'
+      url: uploads/resume.pdf
 
       
   - area: BS-MS Physics
