@@ -36,7 +36,7 @@ sections:
       subtitle: ''
       text: |-
         Use this area to speak to your mission. I'm a research scientist in the Moonshot team at DeepMind. I blog about machine learning, deep learning, and moonshots.
-
+   
         I apply a range of qualitative and quantitative methods to comprehensively investigate the role of science and technology in the economy.
         
         Please reach out to collaborate 😃
@@ -56,28 +56,28 @@ sections:
 #      view: article-grid
 #      columns: 2
 
-- block: collection
-  content:
-    title: Recent Publications
-    text: ""
-    items:
-      - title: "Bootstrapping string models with entanglement minimization and Machine-Learning"
-        authors:
-          - "Faizan Bhat"
-          - "Debapriyo Chowdhury"
-          - "Arnab Priya Saha"
-          - "Aninda Sinha"
-        date: "2024-09-26"
-        url: https://inspirehep.net/literature/2835174
+  - block: collection
+    content:
+      title: Recent Publications
+      text: ""
+      items:
+        - title: "Bootstrapping string models with entanglement minimization and Machine-Learning"
+          authors:
+            - "Faizan Bhat"
+            - "Debapriyo Chowdhury"
+            - "Arnab Priya Saha"
+            - "Aninda Sinha"
+          date: "2024-09-26"
+          url: https://inspirehep.net/literature/2835174
         # add more fields as needed
 
-      - title: "Another Publication Title"
-        authors:
-          - "Author One"
-        date: "2023-05-10"
-        url: https://example.com/another-publication
-    design:
-      view: citation
+        - title: "Another Publication Title"
+          authors:
+            - "Author One"
+          date: "2023-05-10"
+          url: https://example.com/another-publication
+      design:
+        view: citation
 
 #  - block: collection
 #    content:
