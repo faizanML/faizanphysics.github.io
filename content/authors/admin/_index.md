@@ -48,8 +48,9 @@ education:
     # date_end: 
     summary: |
       Supervised by Prof. Aninda Sinha.
-      <a href="https://github.com/faizanML/website_faizan.github.io/blob/main/static/uploads/resume.pdf" class="btn btn-primary" target="_blank">Read Thesis</a>
-
+    button:
+      text: Read Thesis
+      url:  uploads/resume.pdf    
       
   - area: BS-MS Physics
     institution: IISER Bhopal
