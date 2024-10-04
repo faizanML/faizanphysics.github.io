@@ -47,10 +47,14 @@ education:
     date_start: 2020-01-01
     # date_end: 
     summary: |
-      Supervised by [Prof. Aninda Sinha] (https://chep.iisc.ac.in/Personnel/asinha.html)
+      Supervised by Prof. Aninda Sinha
     button:
       text: 'Read Thesis'
       url: 'https://example.com'
+    link:
+      text: 'Prof. Aninda Sinha'
+      url: 'https://chep.iisc.ac.in/Personnel/asinha.html'
+'
 
       
   - area: BS-MS Physics
