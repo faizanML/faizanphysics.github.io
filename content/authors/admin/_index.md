@@ -54,7 +54,6 @@ education:
     link:
       text: 'Prof. Aninda Sinha'
       url: 'https://chep.iisc.ac.in/Personnel/asinha.html'
-'
 
       
   - area: BS-MS Physics
