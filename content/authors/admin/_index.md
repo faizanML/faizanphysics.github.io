@@ -33,7 +33,7 @@ profiles:
     url: 'mailto:faizanbhat@iisc.ac.in'
     
   - icon: brands/linkedin
-    url: https://www.linkedin.com/
+    url: https://in.linkedin.com/in/faizaan-bhat-a73416118
 
 interests:
   - S-Matrix Bootstrap
@@ -47,8 +47,7 @@ education:
     date_start: 2020-01-01
     # date_end: 
     summary: |
-      Supervised by [Prof. Aninda Sinha](https://chep.iisc.ac.in/Personnel/asinha.html).
-    button:
+      Supervised by [Prof. Aninda Sinha] (https://chep.iisc.ac.in/Personnel/asinha.html)
       text: 'Read Thesis'
       url: 'https://example.com'
 
