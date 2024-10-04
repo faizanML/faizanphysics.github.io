@@ -4,12 +4,17 @@
 # This file is formatted using YAML syntax - learn more at https://learnxinyminutes.com/docs/yaml/
 
 # Website name
-title: faizanbhatphysics
+
+title: "Faizan Bhat Physics"
 # Website URL
 baseURL: 'https://faizanbhatphysics.com/'
 # Meta Description
 description: 'Personal physics homepage of Faizan Bhat.'
-
+meta:
+  description: 'Personal physics homepage of Faizan Bhat.'
+  keywords: "Faizan Bhat, physics, physics tutorials, educational resources, physics articles"
+  author: "Faizan Bhat"
+  
 ############################
 ## LANGUAGE
 ############################
@@ -53,5 +58,6 @@ markup:
     lineNos: false
 security:
   _merge: deep
+enableSitemap: true
 sitemap:
   _merge: deep
