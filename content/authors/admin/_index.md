@@ -64,8 +64,8 @@ education:
       Thesis on _Perturbative Mellin correlators in N=4 Supersymmetric Yang-Mills_.
       Supervised by Prof. Rajesh Gopakumar.
     button:
-      text: 'Read Thesis'
-      url:  <a href="/uploads/resume.pdf" class="btn btn-primary" target="_blank">Open PDF</a>
+      text: Read Thesis
+      url:  uploads/resume.pdf
 
 
 # Skills
