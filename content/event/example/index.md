@@ -2,7 +2,7 @@
 title: Bootstrapping High-Energy Observables
 
 event: Indian Strings Meeting '23
-event_url: [https://example.org](http://home.phy.iitb.ac.in/~ism2023/index.html)
+event_url: http://home.phy.iitb.ac.in/~ism2023/index.html
 
 location: IIT Bombay
 # address:
