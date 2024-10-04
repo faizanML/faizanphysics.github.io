@@ -83,11 +83,11 @@ skills:
       - name: Python/PyTorch
         description: ''
         percent: 80
-        icon: chart-bar
+        icon: code-bracket
       - name: C++
         description: ''
         percent: 80
-        icon: circle-stack
+        icon: code-bracket
   - name: Hobbies
     color: '#eeac02'
     color_border: '#f0bf23'
@@ -103,7 +103,7 @@ skills:
       - name: Reading
         description: ''
         percent: 80
-        icon: camera
+        icon: book
 
 # Awards.
 #   Add/remove as many awards below as you like.
