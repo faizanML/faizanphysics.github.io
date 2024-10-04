@@ -50,7 +50,7 @@ education:
       Supervised by Prof. Aninda Sinha.
     button:
       text: Read Thesis
-      url:  uploads/resume.pdf 
+      url:  uploads/MS_Thesis.pdf
       
   - area: BS-MS Physics
     institution: IISER Bhopal
