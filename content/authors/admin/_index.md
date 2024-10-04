@@ -47,13 +47,10 @@ education:
     date_start: 2020-01-01
     # date_end: 
     summary: |
-      Supervised by Prof. Aninda Sinha
+      Supervised by Prof. Aninda Sinha.
     button:
       text: 'Read Thesis'
       url: 'https://example.com'
-    link:
-      text: 'Prof. Aninda Sinha'
-      url: 'https://chep.iisc.ac.in/Personnel/asinha.html'
 
       
   - area: BS-MS Physics
@@ -67,7 +64,7 @@ education:
     date_end: 2019-08-01
     summary: |
       Thesis on _Perturbative Mellin correlators in N=4 Supersymmetric Yang-Mills_.
-      Supervised by [Prof. Rajesh Gopakumar] (https://www.icts.res.in/people/rajesh-gopakumar)
+      Supervised by Prof. Rajesh Gopakumar.
     button:
       text: 'Read Thesis'
       url: 'https://example.com'
