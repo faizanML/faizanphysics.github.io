@@ -24,7 +24,7 @@ sections:
         color: black
         image:
           # Add your image background to `assets/media/`.
-          filename: light_yellow.jpeg
+          filename: Abstract_Art.jpeg
           filters:
             brightness: 1.0
           size: cover
