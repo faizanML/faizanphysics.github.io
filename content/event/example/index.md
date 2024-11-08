@@ -32,9 +32,9 @@ authors:
 # Is this a featured talk? (true/false)
 featured: true
 
-image:
-  src: 'https://github.com/faizanML/website_faizan.github.io/blob/main/content/event/example/featured.png'
-  focal_point: Right
+# image:
+# src: 'https://github.com/faizanML/website_faizan.github.io/blob/main/content/event/example/featured.png'
+# focal_point: Right
 
 links:
 #  - icon: twitter
