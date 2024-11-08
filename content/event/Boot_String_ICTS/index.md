@@ -1,7 +1,7 @@
 ---
 title: Bootstrapping String-like amplitudes using Entaglement minimization and Machine Learning
 
-event: ICTS String Seminar '23
+event: ICTS String Seminar
 #event_url: http://home.phy.iitb.ac.in/~ism2023/index.html
 
 location: ICTS Bangalore
@@ -12,7 +12,7 @@ location: ICTS Bangalore
   # postcode: '94305'
   # country: United States
 
-summary: IIT Bombay, Indian Strings Meeting '23
+summary: ICTS Bangalore,  ICTS String Seminar '24
 # abstract: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellusac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam.'
 
 # Talk start and end times.
@@ -22,7 +22,7 @@ summary: IIT Bombay, Indian Strings Meeting '23
 # all_day: false
 
 # Schedule page publish date (NOT talk date).
-publishDate: '2023-12-23T00:00:00Z'
+publishDate: '2024-11-06T00:00:00Z'
 
 authors:
   - admin
