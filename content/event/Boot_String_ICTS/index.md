@@ -34,7 +34,7 @@ featured: true
 
 image:
   src: 'https://github.com/faizanML/website_faizan.github.io/blob/main/content/event/Boot_String_ICTS
-/featured.png'
+/ICTS_String_Seminar_2024.png'
   focal_point: Right
 
 links:
